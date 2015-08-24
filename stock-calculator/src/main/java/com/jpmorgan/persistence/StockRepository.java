@@ -1,9 +1,7 @@
 package com.jpmorgan.persistence;
 
-import com.jpmorgan.model.Stock;
 import com.jpmorgan.model.Trade;
 
-import java.util.Date;
 import java.util.List;
 
 public interface StockRepository {

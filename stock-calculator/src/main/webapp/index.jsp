@@ -1,1 +1,1 @@
-This is the microgaming-wallet-runner app!
+This is the Stock Calculator app!
